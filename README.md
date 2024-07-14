@@ -24,3 +24,9 @@ python manage.py makemigrations
  python manage.py migrate 
 
 ```
+
+```commandline
+create superuser
+python manage.py createsuperuser
+
+```
