@@ -25,8 +25,8 @@ python manage.py makemigrations
 
 ```
 
+# create superuser
 ```commandline
-create superuser
 python manage.py createsuperuser
 
 ```
